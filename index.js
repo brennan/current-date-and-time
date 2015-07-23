@@ -1,4 +1,4 @@
-// defining logic for current date and time
+  // defining logic for current date and time
   var currentdate = new Date();
   var month = (currentdate.getMonth()+1);
   var day = currentdate.getDate();
